@@ -1,0 +1,2 @@
+# Online Examination Platform
+ The Online Examination Platform is a web based project which allows a particular company or institute to conduct and manage examinations in an online environment. The purpose of this Online Examination Platform is to eliminate the sort of manual workload with the help of computerized equipment. It allows the facility of auto generated results so that the examiner won't have to check answers of any student.
